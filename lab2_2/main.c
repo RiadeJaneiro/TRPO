@@ -10,4 +10,5 @@ int main(void){
 	 else if(a>=14 && a<=20) printf("Young man");
 	  else if(a>=21 && a<=70) printf("Man");
 	   else if(a>=70) printf("The elder");
+	    else printf("Error");
 }
