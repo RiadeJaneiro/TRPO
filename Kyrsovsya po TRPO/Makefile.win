@@ -12,7 +12,7 @@ CXXINCS  = -I"D:/Program Files/Dla Mashi/Dev-Cpp/TDM-GCC-64/include" -I"D:/Progr
 BIN      = Project1.exe
 CXXFLAGS = $(CXXINCS) -g3
 CFLAGS   = $(INCS) -g3
-DEL      = D:\Program Files\Dla Mashi\Dev-Cpp\devcpp.exe INTERNAL_DEL
+DEL      = D:\Program Files\Dla Mashi\Dev-Cpp\DevCpp.exe INTERNAL_DEL
 
 .PHONY: all all-before all-after clean clean-custom
 
